@@ -5,7 +5,7 @@ Personal testing version of Dirt Multiversion. Use the official version: https:/
 ### Compiling from source
 Using maven:
 ```
-git clone https://github.com/DirtPowered/DirtMultiversion.git
+git clone https://github.com/Wrial/DirtMultiversion.git
 cd ./DirtMultiversion
 mvn clean package
 ```
